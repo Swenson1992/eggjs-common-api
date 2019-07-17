@@ -1,11 +1,10 @@
 # server-config-api
 
-基于Egg.js的服务器元数据配置 RESTful API 工程，用于快速集成开发RESTful前后端分离的服务端。
+基于Egg.js的 RESTful API 工程，用于快速集成开发RESTful前后端分离的服务端。
 
 ## 特性
 
 - :zap: **框架选择**：基于 Egg.js 2.0
-- :fire: **数据模型**：基于 Mongoose 存储
 - :lock: **授权验证**：基于JWT
 - :rocket: **内置功能**：文件处理，用户系统，统一错误处理及接口返回标准，全方位CRUD,分页,模糊查询的等数据操作Demo
 - :sparkles: **最佳实践**：接口设计适配 Ant Design Pro 或 微信小程序开发等。(内置分页及ant接口返回标准)
