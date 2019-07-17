@@ -1,6 +1,6 @@
 {
   "name": "eggjs-api",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A optimized Node.js RESTful API Server Template based on egg.js!",
   "private": true,
   "dependencies": {
